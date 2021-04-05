@@ -1,2 +1,2 @@
 # barnesa.github.io
-About barnesa
+This is another test.
